@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Default access control on x_884300_saba_git_books</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_884300_saba_git_books</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-16 05:58:44</sys_created_on>
+        <sys_id>5137a29a97294210064b3480f053afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_884300_saba_git_books</sys_name>
+        <sys_package display_value="Saba-Git_Project" source="x_884300_saba_git">b166ee5297294210064b3480f053aff5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Saba-Git_Project">b166ee5297294210064b3480f053aff5</sys_scope>
+        <sys_update_name>sys_security_acl_5137a29a97294210064b3480f053afad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-16 05:58:44</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
